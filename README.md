@@ -1,4 +1,4 @@
-#vicualiser
+# vicualiser
 
 To visualize different types of data in different ways.
 * Main program to visualize chosen type of data
